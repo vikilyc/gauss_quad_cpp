@@ -7,8 +7,8 @@ This project provides a modern and parallelized implementation of Gaussian-type 
 ## 📜 History
 
 - **Original Fortran 77**: January 20, 1975, Stanford University  
-- **Updated**: December 21, 1983, by Eric Grosse  
-- **Fortran 95 Port**: November 2005, by Bill McLean  
+- **Modified**: December 21, 1983, by Eric Grosse  
+- **Fortran 95 Version**: November 2005, by Bill McLean  
 - **C++ Version**: April 2025, by ChatGPT and Yuchen Liu
 
 ---
